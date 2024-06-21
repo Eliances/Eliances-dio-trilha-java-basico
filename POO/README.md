@@ -2,4 +2,4 @@
 
 ## Modelo de UML:
 
-![ ](Eliances-dio-trilha-java-basico/POO/diagrama/UML iPhone.drawio.svg)
+![ ](diagrama/UML iPhone.drawio.svg)
